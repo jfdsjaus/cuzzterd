@@ -1,4 +1,5 @@
 {
+  "name": "YouTube",
   "version": "1.0.0",
   "description": "Unblocker website w/ Ultraviolet",
   "main": "index.js",
@@ -11,7 +12,7 @@
     "url": "git+https://github.com/shuttlenetwork/shuttle"
   },
   "keywords": [
-    "proxer"
+    "proxy"
   ],
   "author": "",
   "license": "GPL-3.0-or-later",
